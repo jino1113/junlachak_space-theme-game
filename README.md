@@ -1,26 +1,9 @@
- 
+Game Overview
+This game showcases the use of Microsoft MakeCode Arcade in video game development. It has a space theme, allows players to move left, right, forward, and backward, and features asteroids as obstacles. After players have played for a while, the game will enter phase 2. The game will make the game more difficult.
 
+How to Play
+-Press left, right, forward, and backward to move the player character.
+-Press the A button to fire the projectile to destroy asteroids.
+-When the player's health drops, collect a Healing Item to restore health.
+-When the player's health runs out, the game will calculate the score and display the highest score.
 
-> Open this page at [https://jino1113.github.io/junlachak_space-theme-game/](https://jino1113.github.io/junlachak_space-theme-game/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/jino1113/junlachak_space-theme-game** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/jino1113/junlachak_space-theme-game** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
