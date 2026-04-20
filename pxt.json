@@ -1,0 +1,28 @@
+{
+    "name": "Junlachak_Space theme Game",
+    "description": "This game showcases the use of Microsoft MakeCode Arcade in video game development. It has a space theme, allows players to move left, right, forward, and backward, and features asteroids as obstacles. After players have played for a while, the game will enter phase 2. The game will make the game more difficult.",
+    "dependencies": {
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
