@@ -3,7 +3,7 @@ Game Overview
 
 How to Play
 <br> -Press left, right, forward, and backward to move the player character.
--Press the A button to fire the projectile to destroy asteroids.
--When the player's health drops, collect a Healing Item to restore health.
--When the player's health runs out, the game will calculate the score and display the highest score.
+<br> -Press the A button to fire the projectile to destroy asteroids.
+<br> -When the player's health drops, collect a Healing Item to restore health.
+<br> -When the player's health runs out, the game will calculate the score and display the highest score.
 
